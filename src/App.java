@@ -11,5 +11,7 @@ public class App {
         System.out.println(" I znowu w nowym brabnchu");
 
         System.out.println("kolejne");
+
+        System.out.println("konflikt 1");
     }
 }
