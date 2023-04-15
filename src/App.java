@@ -7,5 +7,9 @@ public class App {
         System.out.println("Coś");
 
         System.out.println("Jeszcze cos w nowym branchu");
+
+        System.out.println(" I znowu w nowym brabnchu");
+
+        System.out.println("kolejne");
     }
 }
