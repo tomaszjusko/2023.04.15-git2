@@ -3,5 +3,7 @@ public class App {
         System.out.println("GIT2");
 
         System.out.println("nowa linia");
+
+        System.out.println("Coś");
     }
 }
