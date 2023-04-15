@@ -12,6 +12,6 @@ public class App {
 
         System.out.println("kolejne");
 
-        System.out.println("konflikt 1");
+        System.out.println("konflikt 2");
     }
 }
